@@ -2,7 +2,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: 100vh;
-    background-color: olive;
+    background-color: rgb(23, 29, 49);
 }
 
 h1{
